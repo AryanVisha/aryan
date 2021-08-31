@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    font-style: italic;
+    font-size:25px;
+    padding: 20px;
+    background:linear-gradient(#0affc3 0%,#0df2ec 65%);
+    background-repeat: no-repeat;
+}
